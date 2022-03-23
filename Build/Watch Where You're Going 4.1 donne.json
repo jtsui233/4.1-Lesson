@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Watch Where You're going 4.1",
+"productVersion": "0.1",
+"dataUrl": "Watch Where You're Going 4.1 donne.data.unityweb",
+"wasmCodeUrl": "Watch Where You're Going 4.1 donne.wasm.code.unityweb",
+"wasmFrameworkUrl": "Watch Where You're Going 4.1 donne.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.31f1"
+}
